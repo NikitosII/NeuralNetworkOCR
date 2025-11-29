@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="NeuralNetworkOCR.CLI/NeuralNetworkOCR.CLI.csproj" />
+  <Project Path="NeuralNetworkOCR.Inference/NeuralNetworkOCR.Inference.csproj" />
+  <Project Path="NeuralNetworkOCR.Training/NeuralNetworkOCR.Training.csproj" />
+  <Project Path="NeuralNetworkOCR.WebAPI/NeuralNetworkOCR.WebAPI.csproj" />
+  <Project Path="NeuralNetworkOCR/NeuralNetworkOCR.Core.csproj" />
+</Solution>

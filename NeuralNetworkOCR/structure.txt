@@ -1,0 +1,12 @@
+﻿There are many different approaches to optical character recognition problem. One of the most common and popular approaches is based on neural networks
+
+Structure +-
+
+NeuralNetworkOCR/
+├── src/
+│   ├── NeuralNetworkOCR.Core/          # логика
+│   ├── NeuralNetworkOCR.Training/      # обучение 
+│   ├── NeuralNetworkOCR.Inference/     # распознавание
+│   ├── NeuralNetworkOCR.WebAPI/        # API
+│   └── NeuralNetworkOCR.CLI/           # Консоль
+├── tests/
